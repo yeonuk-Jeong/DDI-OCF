@@ -1,5 +1,6 @@
 # DDi-OCF
 we can not release DrugBank data because it's licensed.
+
 paper : Predicting Drug-Drug Interactions: A Deep Learning Approach with GCN-based Collaborative Filtering
 
 Execution example
